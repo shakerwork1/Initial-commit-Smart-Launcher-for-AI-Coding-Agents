@@ -1,6 +1,7 @@
+# 🤖 Free AI Agents - Smart Launcher
+
 <img width="1097" height="613" alt="image" src="https://github.com/user-attachments/assets/1559ce17-aa71-4483-be7a-fee0b353e67b" />
 
-# 🤖 Free AI Agents - Smart Launcher
 
 A professional and beautifully designed Terminal UI (TUI) for managing and launching AI coding agents with a single click.
 
