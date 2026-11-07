@@ -1,4 +1,4 @@
-<img width="1108" height="592" alt="image" src="https://github.com/user-attachments/assets/b7326384-022c-4f6b-8c0f-672c03c6f194" />
+<img width="1097" height="613" alt="image" src="https://github.com/user-attachments/assets/1559ce17-aa71-4483-be7a-fee0b353e67b" />
 
 # 🤖 Free AI Agents - Smart Launcher
 
